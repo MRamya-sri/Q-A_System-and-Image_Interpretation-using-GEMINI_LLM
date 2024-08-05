@@ -38,14 +38,20 @@ This project includes two applications that utilize Google's GEMINI LLM API:
 ## Usage
 ### Text Q/A System
 Run the Streamlit app for the Q/A system:
+
 "streamlit run Text.py" 
+
 Open your web browser and navigate to http://localhost:8501 to access the Q/A system.
+
 Interact with the application by entering questions into the provided input field and clicking the "Click here for Response to Your Question." button to receive responses from the GEMINI LLM.
 
 ### Image Interpretation
 Run the Streamlit app for image interpretation:
+
 "streamlit run Image.py"
+
 Open your web browser and navigate to http://localhost:8501 to access the image interpretation application.
+
 Upload an image by clicking on the "Choose an Image..." button. Once the image is uploaded, click the "Interpret about Image." button to get the interpretation from the GEMINI LLM.
 
 ## Contributing
