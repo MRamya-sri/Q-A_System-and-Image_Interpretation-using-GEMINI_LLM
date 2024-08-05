@@ -27,9 +27,9 @@ This project includes two applications that utilize Google's GEMINI LLM API:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MRamya-sri/Q-A-_System-and-Image_Interpretation-using-GEMINI_LLM.git
    
-   cd your-repo-name
+   cd Q-A-_System-and-Image_Interpretation-using-GEMINI_LLM
 
    pip install -r requirements.txt
 
