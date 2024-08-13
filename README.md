@@ -57,7 +57,7 @@ Open your web browser and navigate to http://localhost:8501 to access the image 
 Upload an image by clicking on the "Choose an Image..." button. Once the image is uploaded, click the "Interpret about Image." button to get the interpretation from the GEMINI LLM.
 
 ## Contributing
-Contributions are welcome! Please create a pull request or open an issue for any enhancements or bug fixes.
+Contributions are welcome! Please create a pull request or open an issue for enhancements or bug fixes.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
