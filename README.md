@@ -31,8 +31,6 @@ This project includes two applications that utilize Google's GEMINI LLM API:
    
    cd Q-A_System-and-Image_Interpretation-using-GEMINI_LLM
 
-   pip install -r requirements.txt
-
 
 
 ## Usage
